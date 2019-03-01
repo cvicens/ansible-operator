@@ -1,0 +1,7 @@
+apiVersion: foo.cvicens.com/v1alpha1
+kind: Foo
+metadata:
+  name: example-foo
+spec:
+  # Add fields here
+  size: 3
